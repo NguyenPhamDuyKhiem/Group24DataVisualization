@@ -27,5 +27,5 @@
 - Ngô Phi Lít           - 18133024 - 18133024@student.hcmute.edu.vn
 
 ## Tài liệu tham hảo
-https://aws.amazon.com/vi/getting-started/hands-on/create-mysql-db/
-https://www.youtube.com/watch?v=dE1QlhunWMs
+-https://aws.amazon.com/vi/getting-started/hands-on/create-mysql-db/
+-https://www.youtube.com/watch?v=dE1QlhunWMs
