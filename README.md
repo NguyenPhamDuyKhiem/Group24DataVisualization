@@ -17,7 +17,7 @@
 
 - Apache Superset
 - MySQL
-- Python3
+- Visual Studio 2019
 - Jinja Template
 
 
