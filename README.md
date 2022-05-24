@@ -1,5 +1,3 @@
-# Group24DataVisualization
-
 # Sử dụng Apache Superset để thực hiện trực quan hóa dữ liệu
 
 ## Các nội dung chính
